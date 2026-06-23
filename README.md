@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Thalyta Cerqueira!
+# 👋 Olá, eu sou a Thalyta Cerqueira Campos!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por transformar ideias em soluções reais através do código. Atualmente, foco meus estudos no desenvolvimento de software e infraestrutura em nuvem.
 
