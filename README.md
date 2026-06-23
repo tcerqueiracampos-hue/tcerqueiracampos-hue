@@ -29,16 +29,6 @@ Aqui estão as tecnologias que estou estudando e praticando no momento:
 <br>
 
 * ☁️ **Cloud & Infra:** Realizando a capacitação **AWS Woman Cloud** e aprendendo as bases de **Estrutura de Redes e Segurança**.
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" />
-</p>
-
 ---
 
 ## 🔍 Objetivo
