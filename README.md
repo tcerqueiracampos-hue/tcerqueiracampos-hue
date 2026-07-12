@@ -22,6 +22,7 @@ Aqui estão as tecnologias que estou estudando e praticando no momento:
 
 <div style="display: inline-block">
   <img align="center" alt="Thalyta-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Thalyta-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thalyta-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Thalyta-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
@@ -33,3 +34,4 @@ Aqui estão as tecnologias que estou estudando e praticando no momento:
 
 ## 🔍 Objetivo
 Estou em busca da minha primeira oportunidade como **Estagiária na área de Tecnologia**. Quero aplicar toda a base teórica da faculdade, o aprendizado prático dos meus cursos complementares (AWS, Cisco, Alura, FGV) e, acima de tudo, contribuir com o time codando bastante!
+
