@@ -25,12 +25,12 @@ Aqui estão as tecnologias que estou estudando e praticando no momento:
   <img align="center" alt="Thalyta-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Thalyta-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Thalyta-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Thalyta-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Thalyta-AWS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
 </div>
 
 <br>
 
-- ☁️ **Cloud & Infra:** Realizando a capacitação **AWS Woman Cloud** e aprendendo as bases de **Estrutura de Redes e Segurança**.
+- ☁️ **Cloud & Infra:** Realizando a capacitação **AWS Woman in Cloud** e aprendendo as bases de **Estrutura de Redes e Segurança**.
 
 ---
 
