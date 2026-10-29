@@ -11,8 +11,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por transfo
 ---
 
 ## 🚀 Sobre mim
-* 🎓 **Formação:** Cursando o 4º semestre de ADS na Universidade São Judas Tadeu.
-* 📈 **Diário de Bordo:** Utilizo este GitHub para documentar toda a minha evolução. Cada repositório aqui reflete a minha jornada, desde os primeiros passos com lógica básica até projetos mais estruturados e modelagem de software.
+- 🎓 **Formação:** Cursando o 4º semestre de ADS na Universidade São Judas Tadeu.
+- 📈 **Diário de Bordo:** Utilizo este GitHub para documentar toda a minha evolução. Cada repositório aqui reflete a minha jornada, desde os primeiros passos com lógica básica até projetos mais estruturados e modelagem de software.
 
 ---
 
@@ -21,17 +21,18 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por transfo
 Aqui estão as tecnologias que estou estudando e praticando no momento:
 
 <div style="display: inline-block">
-  <img align="center" alt="Thalyta-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Thalyta-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thalyta-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Thalyta-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Thalyta-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Thalyta-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Thalyta-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Thalyta-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Thalyta-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 <br>
 
-* ☁️ **Cloud & Infra:** Realizando a capacitação **AWS Woman Cloud** e aprendendo as bases de **Estrutura de Redes e Segurança**.
+- ☁️ **Cloud & Infra:** Realizando a capacitação **AWS Woman Cloud** e aprendendo as bases de **Estrutura de Redes e Segurança**.
+
 ---
 
 ## 🔍 Objetivo
 Estou em busca da minha primeira oportunidade como **Estagiária na área de Tecnologia**. Quero aplicar toda a base teórica da faculdade, o aprendizado prático dos meus cursos complementares (AWS, Cisco, Alura, FGV) e, acima de tudo, contribuir com o time codando bastante!
-
