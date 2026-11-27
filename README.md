@@ -43,7 +43,16 @@ Utilizo este GitHub como meu diário de bordo, documentando minha evolução, co
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,js,python,mysql,aws,git,github,vscode&theme=light" height="48" alt="Tecnologias"/>
-<img src="https://devicons.io/devicons/icons/kiro-icon.svg" height="48" alt="Kiro"/>
+
+<br/><br/>
+
+<a href="https://kiro.dev/" target="_blank" style="text-decoration:none;">
+  <img src="https://devicons.io/devicons/icons/kiro-icon.svg" height="48" alt="Kiro"/>
+  <br/>
+  <strong>Kiro</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/Assistente%20de%20IA-C8A2C8?style=for-the-badge" alt="Assistente de IA"/>
+</a>
 
 </div>
 
