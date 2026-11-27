@@ -42,13 +42,8 @@ Utilizo este GitHub como meu diário de bordo, documentando minha evolução, co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql,aws,git,github,vscode&theme=light"/>
-
-<br/><br/>
-
-<img src="./assets/kiro-logo.jpg" width="32" align="center" alt="Kiro"/>
-&nbsp;
-<strong>Kiro</strong>
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql,aws,git,github,vscode&theme=light" height="48" alt="Tecnologias"/>
+<img src="https://devicons.io/devicons/icons/kiro-icon.svg" height="48" alt="Kiro"/>
 
 </div>
 
