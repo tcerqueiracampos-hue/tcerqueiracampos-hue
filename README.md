@@ -46,9 +46,9 @@ Utilizo este GitHub como meu diário de bordo, documentando minha evolução, co
 
 <br/><br/>
 
-<a href="https://kiro.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Kiro-Assistente%20de%20IA-C8A2C8?style=for-the-badge&logo=kiro&logoColor=white" alt="Kiro"/>
-</a>
+<img src="./assets/kiro-logo.jpg" width="32" align="center" alt="Kiro"/>
+&nbsp;
+<strong>Kiro</strong>
 
 </div>
 
