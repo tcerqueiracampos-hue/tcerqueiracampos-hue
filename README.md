@@ -1,83 +1,65 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9575CD,50:C8A2C8,100:F0D9F5&height=190&section=header&text=Thalyta%20Cerqueira%20Campos&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20%7C%20Cloud%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=60&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39264F,35:70528F,70:A58BC2,100:E6D9F0&height=190&section=header&text=THALYTA%20CERQUEIRA%20CAMPOS&fontSize=31&fontColor=FFFFFF&fontAlignY=42&desc=DESENVOLVIMENTO%20%7C%20CLOUD%20%7C%20INTELIGENCIA%20ARTIFICIAL&descAlignY=67&descSize=12&animation=fadeIn"/>
 
-# 👋 Olá, eu sou a Thalyta!
-
-### Estudante de Análise e Desenvolvimento de Sistemas 💜
-
-🌷 Transformando ideias em soluções através da tecnologia.
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3000&pause=1000&color=9575CD&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+solucoes;Aprendendo+e+evoluindo+na+tecnologia;Construindo+meu+futuro+com+codigo+%F0%9F%92%9C"/>
 
 </div>
 
 ---
 
-## 💜 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu e apaixonada por tecnologia, inovação e aprendizado contínuo.
+Olá! Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
 
-Atualmente, estou desenvolvendo minhas habilidades em desenvolvimento de software, computação em nuvem e inteligência artificial.
+Sou apaixonada por tecnologia, inovação e aprendizado contínuo. Tenho interesse em desenvolvimento de software, computação em nuvem, dados e inteligência artificial.
 
-Utilizo este GitHub como meu diário de bordo, documentando minha evolução, compartilhando projetos e colocando em prática os conhecimentos adquiridos durante minha jornada na tecnologia.
+Utilizo este espaço para documentar minha evolução, compartilhar projetos e transformar conhecimentos em soluções práticas.
 
-💼 Atualmente iniciando minha primeira experiência profissional na área de tecnologia!
-
----
-
-## 🚀 Minha jornada
-
-- 🎓 Análise e Desenvolvimento de Sistemas | Universidade São Judas Tadeu.
-- 💼 Primeira experiência profissional em tecnologia.
-- ☁️ AWS Women in Cloud | Capacitação concluída.
-- 📚 AWS Skill Builder | Em andamento.
-- 🤖 Explorando inteligência artificial generativa.
-- 💻 Desenvolvendo projetos com Java, JavaScript e Python.
-- 🌱 Sempre aprendendo e buscando novos desafios.
+- 🎓 Análise e Desenvolvimento de Sistemas | Universidade São Judas Tadeu
+- ☁️ AWS Women in Cloud | Capacitação concluída
+- 📚 AWS Skill Builder | Em andamento
+- 🤖 Explorando Inteligência Artificial Generativa e Kiro
+- 💼 Iniciando minha trajetória profissional em tecnologia
 
 ---
 
-## 💻 Linguagens e tecnologias
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-### Linguagens de programação
-
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql,html,css&theme=light"/>
-
-### Ferramentas e tecnologias
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql,html,css,aws,git,github,vscode&theme=light"/>
 
 </div>
 
 ---
 
-## ☁️ Cloud Computing e Inteligência Artificial
+## ☁️ Cloud, IA e aprendizado
 
-Tenho direcionado meus estudos para computação em nuvem, infraestrutura, redes e segurança.
+<div align="center">
 
-Minha jornada inclui:
+<img src="https://img.shields.io/badge/AWS%20Women%20in%20Cloud-Capacitação%20concluída-8064A2?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-- ☁️ AWS Women in Cloud.
-- 📚 AWS Skill Builder.
-- 🤖 Inteligência Artificial Generativa.
-- 🧠 Engenharia de Prompt.
-- 🚀 Exploração de ferramentas de desenvolvimento com IA.
+<img src="https://img.shields.io/badge/AWS%20Skill%20Builder-Em%20andamento-9575CD?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-Em%20aprendizado-B69ACF?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🌸 Projetos em destaque
+## 🚀 Projetos em destaque
 
-### 🤖 Planejador de Estudos com Inteligência Artificial
+### 🤖 Planejador de Estudos com IA
 
-Aplicação em desenvolvimento com auxílio do Kiro, que utiliza inteligência artificial para criar planos de estudos personalizados de acordo com os objetivos e a disponibilidade semanal de cada estudante.
+Aplicação em desenvolvimento com auxílio do Kiro, que utiliza inteligência artificial para criar planos de estudos personalizados conforme os objetivos e a disponibilidade semanal dos estudantes.
 
 **Tecnologias:** Kiro | Inteligência Artificial Generativa.
 
 ### 💻 Projetos acadêmicos
 
-Projetos desenvolvidos durante minha graduação, explorando lógica de programação, desenvolvimento de sistemas, modelagem de software e bancos de dados.
+Projetos desenvolvidos durante minha graduação, envolvendo lógica de programação, desenvolvimento de sistemas, modelagem de software e bancos de dados.
 
 **Tecnologias:** Java | JavaScript | Python | MySQL.
 
@@ -87,30 +69,32 @@ Projetos desenvolvidos durante minha graduação, explorando lógica de programa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tcerqueiracampos-hue&show_icons=true&hide_border=true&bg_color=1B1724&title_color=C8A2C8&icon_color=E6B8D0&text_color=F3EAF5&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tcerqueiracampos-hue&show_icons=true&hide_border=true&bg_color=211A2B&title_color=C9AFE5&icon_color=B69ACF&text_color=F4EDF8&include_all_commits=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcerqueiracampos-hue&layout=compact&hide_border=true&bg_color=1B1724&title_color=C8A2C8&text_color=F3EAF5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcerqueiracampos-hue&layout=compact&hide_border=true&bg_color=211A2B&title_color=C9AFE5&text_color=F4EDF8"/>
 
 </div>
 
 ---
 
-## 🌷 Vamos nos conectar?
+## 🌐 Vamos nos conectar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-8064A2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tcerqueiracampos-hue">
-<img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-9575CD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Meus%20projetos-9575CD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### 💜 Cada linha de código faz parte da minha evolução!
+<br/>
 
-🌸 Aprendendo, desenvolvendo e construindo meu futuro na tecnologia.
+**💜 Cada projeto representa um novo aprendizado.**
+
+*Construindo, aprendendo e evoluindo na tecnologia.*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F0D9F5,50:C8A2C8,100:9575CD&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E6D9F0,50:A58BC2,100:39264F&height=12&section=footer"/>
