@@ -1,9 +1,6 @@
 
 
-<div align="center">
-
 <img src="./banner-lilac.jpg" width="100%" alt="Banner lilás tecnológico"/>
-
 <br/>
 
 # 🌷 Thalyta Cerqueira Campos
