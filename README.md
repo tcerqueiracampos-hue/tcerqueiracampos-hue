@@ -1,6 +1,12 @@
 
 
-<img src="./banner-lilac.jpg" width="100%" alt="Banner lilás tecnológico"/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8D5F2,35:C8A2C8,70:B69ACF,100:F4DCEB&height=180&section=header&text=Thalyta%20Cerqueira%20Campos&fontSize=32&fontColor=FFFFFF&fontAlignY=48&desc=Desenvolvimento%20%7C%20Cloud%20%7C%20IA&descAlignY=72&descSize=14" width="100%" alt="Banner lilás da Thalyta"/>
+
+</div>
+
 <br/>
 
 # 🌷 Thalyta Cerqueira Campos
