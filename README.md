@@ -38,11 +38,17 @@ Utilizo este GitHub como meu diário de bordo, documentando minha evolução, co
 
 ---
 
-## 💻 Tecnologias e ferramentas
+## 💻 Linguagens e tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql,html,css,aws,git,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql,aws,git,github,vscode&theme=light"/>
+
+<br/><br/>
+
+<a href="https://kiro.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Kiro-Assistente%20de%20IA-C8A2C8?style=for-the-badge&logo=kiro&logoColor=white" alt="Kiro"/>
+</a>
 
 </div>
 
